@@ -1,4 +1,4 @@
-# Crunchbase Web Scraper
+# Crunchbase Scraper
 
 ---
 
